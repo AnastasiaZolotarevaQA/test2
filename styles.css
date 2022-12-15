@@ -1,0 +1,24 @@
+h1{
+    color:rgb(101, 50, 99);
+    background-color: rgb(234, 236, 199);
+    border:2px solid rgb(104, 38, 104);
+    text-shadow: 3px 2px rgb(167, 94, 164)
+
+}
+h2{
+    color:rgb(85, 26, 128);
+    background-image: url(file:///C:/Users/anast/Desktop/3.jpg);
+    outline: thick ridge pink;
+    border-style:inset;
+    border-color: rgb(220, 135, 220);
+    font-variant: small-caps;  
+}
+a:link, a:visited {
+    background-color: #ceb0ca;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-style:inset;
+    border-color: rgb(79, 28, 79);
+}
